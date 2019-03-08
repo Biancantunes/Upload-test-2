@@ -20,3 +20,7 @@ li {
   height: 10em;
   margin-bottom: lem;
   background-color: #efefef;}
+
+  a: hover {
+    background-color: grey;
+  }
